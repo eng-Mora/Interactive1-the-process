@@ -4,6 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive Process</title>
     <style>
+        body {
+            background-color: #34495e;
+            color: white; /* Ensures text is visible on the dark background */
+        }
         .contact-icons {
             display: flex;
             gap: 10px;
